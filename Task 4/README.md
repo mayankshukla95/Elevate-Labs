@@ -9,4 +9,4 @@
    
 7. Sum of Sales After Discount = $118.73M
 8. Sum of COGS = $101.83M
-9. Sum of Profit = $127.93M
+9. Sum of Profit = $16.89M
