@@ -1,5 +1,5 @@
 # Cycling Industry Financial Analysis Dashboard - Mayank Shukla
-1. Selected right KPIs (Sales, Profit, Growth).
+1. Selected right KPIs (Sales, Profit, COGS).
 2. Used slicers/filters for interactivity.
 3. Included time-series for  analysis.
 4. Added some cards for totals/summary.
